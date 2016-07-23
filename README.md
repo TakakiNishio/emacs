@@ -1,2 +1,0 @@
-# emacs
-emacs how to
