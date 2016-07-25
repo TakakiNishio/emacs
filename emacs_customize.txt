@@ -1,0 +1,21 @@
+0. install emacs24.5
+
+1. download  files and directory
+   https://github.com/AriYu/dotfiles
+
+2. Copy files and directory to home directory
+
+3. install cask
+   http://d.hatena.ne.jp/naka-06_18/20140606/1402058095
+
+4. $ cask install (at .emacs.d)
+
+5. run emacs
+
+6. M-x packages-list → install use-package (if you sre needed)
+
+6. install fcitx-mozc (if you are needed)
+   https://hirooka.pro/?p=6224
+
+7. M-x jedi:install-server
+   M-x irony:install-server
