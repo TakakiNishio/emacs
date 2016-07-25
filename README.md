@@ -1,2 +1,3 @@
 # emacs
-emacs commands
+emacs commands and custmization
+(practice to use git)
