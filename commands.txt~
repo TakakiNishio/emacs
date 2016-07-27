@@ -4,9 +4,7 @@
 
 ・copy: esc(M) + w
 
-・cut: left cntl(C) + w
-
-・paste: C + y
+・paste: cntl(C) + y
 
 ・save: C + x   C + s
 

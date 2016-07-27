@@ -12,7 +12,7 @@
 
 5. run emacs
 
-6. M-x packages-list → install use-package (if you sre needed)
+6. M-x packages-list → install use-package (if you are needed)
 
 6. install fcitx-mozc (if you are needed)
    https://hirooka.pro/?p=6224
