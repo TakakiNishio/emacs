@@ -3,7 +3,7 @@
 1. download  files and directory
    https://github.com/AriYu/dotfiles
 
-2. Copy files and directory to home directory
+2. copy files and directory to home directory
 
 3. install cask
    http://d.hatena.ne.jp/naka-06_18/20140606/1402058095
