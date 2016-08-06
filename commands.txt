@@ -1,4 +1,5 @@
-・start emacs at terminal: $ emacs -nw filenam.txt 
+
+・start emacs at terminal: $ emacs -nw filenam.txt
 
 ・select: shift + ↑ ↓→←
 
@@ -8,6 +9,8 @@
 
 ・paste: C + y
 
-・save: C + x   C + s
+・save: C + x   C + save
+
+・save as another file: C + x  C + w
 
 ・end emacs: C + x  C + c
