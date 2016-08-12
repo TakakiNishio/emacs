@@ -3,7 +3,7 @@
 
 ・select: shift + ↑ ↓→←
 
-・copy: esc(M) + w
+・copy: alt(M) + w
 
 ・cut: left cntl(C) + w
 
