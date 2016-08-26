@@ -1,5 +1,5 @@
 
-・start emacs at terminal: $ emacs -nw filenam.txt
+・start emacs at terminal: $ emacs -nw filename.txt
 
 ・select: shift + ↑ ↓→←
 
