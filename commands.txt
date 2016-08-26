@@ -9,6 +9,8 @@
 
 ・paste: C + y
 
+・delete the line: C + k
+
 ・save: C + x   C + save
 
 ・save as another file: C + x  C + w
