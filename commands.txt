@@ -1,5 +1,5 @@
 
-・start emacs at terminal: $ emacs -nw filenam.txt
+・start emacs at terminal: $ emacs -nw filename.txt
 
 ・select: shift + ↑ ↓→←
 
@@ -8,6 +8,8 @@
 ・cut: left cntl(C) + w
 
 ・paste: C + y
+
+・delete the line: C + k
 
 ・save: C + x   C + save
 
