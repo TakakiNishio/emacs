@@ -2,9 +2,10 @@
 ・start emacs at terminal: $ emacs -nw filename.txt
 
 ・open multiple files: cntl(C) + F
-・close multiple file: cntl(C) + X  K
+・switch files: C + X  ← →
+・close one of files: C + X  K
 
-・select: shift + ↑ ↓→←
+・select: shift + ↑ ↓ ← →
 
 ・copy: alt(M) + w
 
