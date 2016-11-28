@@ -1,13 +1,18 @@
 
 ・start emacs at terminal: $ emacs -nw filename.txt
 
+・open multiple files: cntl(C) + F
+・close multiple file: cntl(C) + X  K
+
 ・select: shift + ↑ ↓→←
 
 ・copy: alt(M) + w
 
-・cut: left cntl(C) + w
+・cut: left: C + w
 
 ・paste: C + y
+
+・comment, uncomment: M + ";(+)"
 
 ・delete the line: C + k
 
