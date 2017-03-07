@@ -1,17 +1,29 @@
+M = alt
+C = left ctrl
 
-・start emacs at terminal: $ emacs -nw filename.txt
+・start emacs in terminal: $ emacs -nw filename.txt
 
-・select: shift + ↑ ↓→←
+・select: shift + ↑ ↓ ← →
 
-・copy: alt(M) + w
+・copy: M + w
 
-・cut: left cntl(C) + w
+・cut: C + w
 
 ・paste: C + y
 
+・scroll down: C + v
+
+・scroll up: M + v
+
+・repcace: M + shift + 5(%) then "words" then space
+
 ・delete the line: C + k
 
-・save: C + x   C + save
+・open another file: C + x + f
+
+・move editting file: C + x + ← →
+
+・save: C + x   C + s
 
 ・save as another file: C + x  C + w
 
