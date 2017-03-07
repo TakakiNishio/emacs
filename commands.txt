@@ -3,10 +3,18 @@ C = left ctrl
 
 ・start emacs in terminal: $ emacs -nw filename.txt
 
+<<<<<<< HEAD
+=======
+・open multiple files: cntl(C) + F
+・switch files: C + X  ← →
+・close one of files: C + X  K
+
+>>>>>>> fdc2f85bd0ae9756066580cb61a8365dab96027a
 ・select: shift + ↑ ↓ ← →
 
 ・copy: M + w
 
+<<<<<<< HEAD
 ・cut: C + w
 
 ・paste: C + y
@@ -16,6 +24,13 @@ C = left ctrl
 ・scroll up: M + v
 
 ・repcace: M + shift + 5(%) then "words" then space
+=======
+・cut: left: C + w
+
+・paste: C + y
+
+・comment, uncomment: M + ";(+)"
+>>>>>>> fdc2f85bd0ae9756066580cb61a8365dab96027a
 
 ・delete the line: C + k
 
